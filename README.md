@@ -1,9 +1,10 @@
 # IXR4Unity
-API to easily connect the Intuitive XR Suite to Unity
+API to easily connect the [Intuitive XR Suite](https://github.com/Zanderlabs/IXR-Suite) to Unity.
 
 # Usage
 To get this to work you need to:
 
+- download and run the [IXR Suite](https://github.com/Zanderlabs/IXR-Suite)
 - make a new Unity project
 - add LSL4Unity: Open the Package Manager Window, click on the + dropdown, and choose `Add package from git URL...`. Enter https://github.com/labstreaminglayer/LSL4Unity.git
 - Add the IXR_VR_Controller script to your assets
